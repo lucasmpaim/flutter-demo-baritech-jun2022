@@ -1,16 +1,17 @@
 # flutter_demo
 
-A new Flutter project.
+Demo app to demonstrate a few things that we think that's are amazing :P
 
-## Getting Started
+I am not a Flutter developer, so probably the code can be better ð
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![](gifs/Imagem1.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](gifs/Imagem2.gif)
+
+
+![](gifs/Imagem3.gif)
+
+
+![](gifs/Imagem4.gif)
